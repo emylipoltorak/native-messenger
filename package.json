@@ -1,0 +1,16 @@
+{
+  "name": "native-messenger",
+  "version": "1.0.0",
+  "description": "(React Native messenger app)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emyli Poltorak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "pusher": "^1.5.1"
+  }
+}
